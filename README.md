@@ -10,7 +10,9 @@ Great sayings it's a beautiful app for those people who want to get inspiration 
 - add quotes to favorites
 ### Screenshots
 
-![Image](src)
+![](3.jpg)
+![](4.jpg)
+![](5.jpg)
 
 ### Support or Contact
 
